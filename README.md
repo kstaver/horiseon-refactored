@@ -1,7 +1,7 @@
 # Front Page of Horiseon Company Website - HTML & CSS Code Refactor Project
 
 <p align="center">
-    <img src="https://imgur.com/pCFiIe9">
+    <img src="C:\Users\EspurrBuns\Downloads\mockup.png">
 <p>
 
 # This website is an example of what a front page of a company website with accessibility standards built in looks like.
